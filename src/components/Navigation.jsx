@@ -23,7 +23,7 @@ export function Navigation({ activeSection }) {
   return (
     <nav className="navbar">
       <div className="navbar-container">
-        <div className="navbar-title">Satish Nimushakavi</div>
+        <div className="navbar-title">Satish </div>
 
         <div className="navbar-links">
           {navItems.map((item) => (
