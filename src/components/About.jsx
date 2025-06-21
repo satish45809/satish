@@ -16,7 +16,7 @@ export function About() {
             <div className="about-card journey">
               <h3 className="card-title">My Journey</h3>
               <p>
-                I'm Satish Kumar, an enthusiastic Frontend Developer with a strong foundation in web
+                I'm Satish Nimushakavi, an enthusiastic Frontend Developer with a strong foundation in web
                 development and a passion for building clean, interactive, and user-friendly websites.
                 I started my journey by learning HTML, CSS, and JavaScript, and soon expanded to React and Git.
                 Through continuous self-learning and hands-on projects, I've gained practical experience
