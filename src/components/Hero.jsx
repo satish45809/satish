@@ -8,7 +8,7 @@ export function Hero() {
   const [loopNum, setLoopNum] = useState(0);
   const [typingSpeed, setTypingSpeed] = useState(150);
 
-  const roles = ["Frontend Developer","React Developer"];
+  const roles = ["Frontend Developer"];
 
   useEffect(() => {
     const handleType = () => {
