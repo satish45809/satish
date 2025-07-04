@@ -40,7 +40,7 @@ export function Projects() {
     title: "Movie Search App",
     description:
       "The Movie Search App is a dynamic, feature-rich React application that allows users to search for their favorite movies",
-    technologies: ["React", "OpenWeather API", "Mapbox"],
+    technologies: ["React", "OMDB API", "Mapbox"],
     imageUrl: project4,  // ✅ local image
     githubUrl: "https://github.com/satish45809/Movie-Search-App",
     liveUrl: "https://github.com/satish45809/Movie-Search-App",
