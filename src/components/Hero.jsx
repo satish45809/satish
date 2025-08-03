@@ -54,7 +54,7 @@ export function Hero() {
         </div>
 
         <p className="hero-description">
-          Passionate Frontend Developer specializing in crafting responsive, high-performance web interfaces using React, JavaScript, and modern CSS. I thrive on building clean, accessible, and interactive user experiences that bring design concepts to life and deliver real-world impact.
+          Passionate Full-Stack Developer skilled in crafting responsive, high-performance web applications using React, JavaScript, modern CSS, and robust backend technologies like Node.js, Express, and MySQL. I thrive on building clean, accessible, and interactive user experiences while designing scalable server-side logic and RESTful APIs that deliver real-world impact and seamless functionality across the stack..
         </p>
 
         <div className="hero-buttons">
