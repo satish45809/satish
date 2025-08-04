@@ -27,10 +27,7 @@ export function About() {
               <div className="about-card work">
                 <h3 className="card-title">What I Do</h3>
                 <p>
-                  I specialize in crafting responsive websites and web applications using the latest
-                  frontend technologies. My skills include React, JavaScript (ES6+), HTML5, CSS3, and Git.
-                  I'm committed to writing clean, reusable code and continuously improving my skills
-                  through personal projects and online learning.
+                  I specialize in building responsive websites and full-stack web applications using modern technologies. My skill set includes React, JavaScript (ES6+), HTML5, CSS3, Git on the frontend, and Node.js, Express, and MySQL on the backend. I'm committed to writing clean, reusable code and continuously improving my skills through personal projects and ongoing learning.
                 </p>
               </div>
             </div>
