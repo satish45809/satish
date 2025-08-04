@@ -16,7 +16,9 @@ export function About() {
             <div className="about-card journey">
               <h3 className="card-title">My Journey</h3>
               <p>
-                I'm Satish Nimushakavi, a passionate Full-Stack Developer with a solid foundation in web development. I started with HTML, CSS, and JavaScript, then advanced to React and Git on the frontend, and later explored Node.js, Express, and MySQL on the backend. Through self-learning and hands-on projects, I've built clean, interactive, and user-friendly applications with practical experience across the full stack.
+                I'm Satish Nimushakavi, a passionate Full-Stack Developer with a solid foundation in web development. 
+                I started with HTML, CSS, and JavaScript, then advanced to React and Git on the frontend, and later explored Node.js, Express, and MySQL on the backend.
+                Through self-learning and hands-on projects, I've built clean, interactive, and user-friendly applications with practical experience across the full stack.
               </p>
             </div>
 
