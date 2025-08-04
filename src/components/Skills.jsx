@@ -14,6 +14,9 @@ export function Skills() {
     { name: "Python", category: "Backend", level: 82, icon: "🐍" },
     { name: "REST APIs", category: "Backend", level: 92, icon: "🔗" },
 
+    { name: "MySQL", category: "Databases", level: 85, icon: "🛢️" },
+    { name: "MongoDB", category: "Databases", level: 80, icon: "🍃" },
+
     { name: "Git", category: "Tools", level: 95, icon: "📝" },
     { name: "Netlify", category: "Tools", level: 85, icon: "🌐" },
     { name: "Vercel", category: "Tools", level: 88, icon: "▲" },
@@ -24,7 +27,7 @@ export function Skills() {
     setSkills(exampleSkills);
   }, []);
 
-  const categories = ["Frontend", "Backend", "Tools"];
+  const categories = ["Frontend", "Backend", "Databases", "Tools"];
 
   return (
     <section id="skills" className="skills-section">
@@ -37,7 +40,7 @@ export function Skills() {
         </div>
 
         <div className="skills-grid">
-          {categories.map((category, categoryIndex) => (
+          {categories.map((category) => (
             <div key={category} className="skills-category">
               <h3>{category}</h3>
               <div className="skills-list">
