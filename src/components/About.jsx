@@ -39,7 +39,7 @@ export function About() {
               <div className="stats-grid">
                 <div className="stat-item">
                   <div className="stat-number blue">10+</div>
-                  <div className="stat-label">Frontend Projects</div>
+                  <div className="stat-label">Projects</div>
                 </div>
                 <div className="stat-item">
                   <div className="stat-number purple">3</div>
