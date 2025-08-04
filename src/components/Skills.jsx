@@ -66,7 +66,7 @@ export function Skills() {
         <div className="skills-footer">
           <h3>Continuous Learning</h3>
           <p>
-            I'm a passionate frontend developer dedicated to learning and growing in the ever-evolving world of web development. I'm currently exploring React best practices, modern JavaScript (ES6+), and building dynamic UIs with frameworks like Next.js. I enjoy working on personal projects, enhancing my skills through hands-on experience, and staying updated with the latest trends in frontend technologies
+            Passionate Full-Stack Developer skilled in crafting responsive, high-performance web applications using React, JavaScript, modern CSS, and robust backend technologies like Node.js, Express, and MySQL. I thrive on building clean, accessible, and interactive user experiences while designing scalable server-side logic and RESTful APIs that deliver real-world impact and seamless functionality across the stack.
           </p>
           <div className="skills-icons">
             {["📚", "🔬", "🚀", "💡", "🎯", "⚡"].map((emoji, index) => (
